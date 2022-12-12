@@ -16,6 +16,6 @@
     "url": "https://github.com/thunderMrbird/BakaGroupWebServer/issues"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
